@@ -1,4 +1,4 @@
-import JobsTable from '@/componets/JobsTable'
+import JobsTable from '@/components/JobsTable'
 import React from 'react'
 
 const page = () => {

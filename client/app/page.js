@@ -1,5 +1,5 @@
-import Navbar from "@/componets/Navbar";
-import Table from "@/componets/Table";
+import Navbar from "@/components/Navbar";
+import Table from "@/components/Table";
 import Image from "next/image";
 
 export default function Home() {
